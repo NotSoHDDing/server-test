@@ -61,3 +61,14 @@ java.lang.NullPointerException: Plugin must have a plugin.yml or bungee.yml
 [10:08:54] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52064]: Logged in as 'EpicCraft'
 [10:08:54] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52064|EpicCraft] -> UpstreamBridge has connected
 [10:08:54] [Netty Worker IO Thread #1/INFO]: [EpicCraft|/[0:0:0:0:0:0:0:1%0]:52064] <-> ServerConnector [lobby] has connected
+[10:14:17] [Netty Worker IO Thread #1/INFO]: [EpicCraft] disconnected with: Proxy lost connection to server.
+[10:14:17] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52064|EpicCraft] <-> DownstreamBridge <-> [lobby] has disconnected
+[10:14:17] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52064|EpicCraft] -> UpstreamBridge has disconnected
+[10:14:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49348]: Connected via websocket
+[10:14:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49348]: Origin header is https://eaglercraft.com
+[10:14:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49348]: Logged in as 'EpicCraft'
+[10:14:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49348|EpicCraft] -> UpstreamBridge has connected
+[10:14:26] [Netty Worker IO Thread #2/INFO]: [EpicCraft|/[0:0:0:0:0:0:0:1%0]:49348] <-> ServerConnector [lobby] has connected
+[10:14:32] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49348|EpicCraft] -> UpstreamBridge has disconnected
+[10:14:32] [Netty Worker IO Thread #2/INFO]: [EpicCraft] disconnected with: Proxy lost connection to server.
+[10:14:32] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49348|EpicCraft] <-> DownstreamBridge <-> [lobby] has disconnected

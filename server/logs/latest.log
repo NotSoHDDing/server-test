@@ -209,3 +209,11 @@
 [10:07:56] [Server thread/INFO]: Timings Reset
 [10:08:54] [Thread-7/INFO]: UUID of player EpicCraft is 7ae78726-6d9f-3118-8a0d-703b8733033a
 [10:08:54] [Server thread/INFO]: EpicCraft[/[0:0:0:0:0:0:0:1]:54690] logged in with entity id 200 at ([world]-242.31497588754488, 65.0, 553.3000000119209)
+[10:12:09] [Async Chat Thread - #0/INFO]: <EpicCraft> rah[m
+
+[10:14:17] [Server thread/INFO]: EpicCraft lost connection: Timed out
+[10:14:17] [Server thread/INFO]: EpicCraft left the game.
+[10:14:26] [Thread-9/INFO]: UUID of player EpicCraft is 7ae78726-6d9f-3118-8a0d-703b8733033a
+[10:14:27] [Server thread/INFO]: EpicCraft[/[0:0:0:0:0:0:0:1]:50012] logged in with entity id 407 at ([world]-243.0698870325972, 65.0, 554.0351104953776)
+[10:14:32] [Server thread/INFO]: EpicCraft lost connection: Disconnected
+[10:14:32] [Server thread/INFO]: EpicCraft left the game.
