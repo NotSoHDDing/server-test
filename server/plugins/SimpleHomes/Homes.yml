@@ -1,1 +1,15 @@
-
+ee5eb20f-c408-4b27-ba51-9f77ca8a9784:
+  base:
+    world: world
+4fc3e120-aadf-38aa-8dfd-2f84f51a528d:
+  default:
+    world: world
+    x: -242
+    y: 65
+    z: 555
+7ae78726-6d9f-3118-8a0d-703b8733033a:
+  default:
+    world: world
+    x: -241
+    y: 65
+    z: 554
